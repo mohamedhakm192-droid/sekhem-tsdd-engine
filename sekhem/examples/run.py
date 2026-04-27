@@ -1,4 +1,4 @@
-from system import SEKHEMSystem
+from sekhem.system import SEKHEMSystem
 
 system = SEKHEMSystem()
 
