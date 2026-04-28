@@ -47,9 +47,9 @@ When danger is detected:
 * Applies hardware-safe limits immediately
 * if ν < ε_hard:
     u = u_reflex_fast
-  ✔ Zero-delay response
-✔ Deterministic behavior
-✔ Guaranteed safety override
+   Zero-delay response
+   Deterministic behavior
+  Guaranteed safety override
 
 ⸻
 
@@ -89,14 +89,14 @@ h_i(X) \geq 0
 
 sekhem-tsdd-engine/
 │
-├── sekhem/                # Core system modules
-├── examples/              # Simulation examples
-├── docs/                  # Diagrams & visuals
+├── sekhem/ Core system modules
+├── examples/Simulation examples
+├── docs/   Diagrams & visuals
 │   ├── architecture.png
 │   ├── full_system.png
 │   └── simulation.gif
 │
-├── system.py              # Main execution engine
+├── system.py Main execution engine
 └── README.md
 ⸻
 
@@ -116,11 +116,11 @@ At each time step:
 
 🧩 Key Features
 
-* ⚡ Ultra-fast reflex (< 1 ms)
-* 🔒 Safety-first design
-* 🧠 Adaptive meta-learning layer
-* 🔁 Closed-loop stability guarantee
-* 🤖 Multi-agent scalable architecture
+*  Ultra-fast reflex (< 1 ms)
+*  Safety-first design
+* Adaptive meta-learning layer
+*  Closed-loop stability guarantee
+*  Multi-agent scalable architecture
 
 ⸻
 
