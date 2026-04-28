@@ -149,4 +149,4 @@ MIT License (or specify your license)
 
 ⭐ Support
 
-If you find this project useful, consider giving it a ⭐ on GitHub.
+If you find this project useful, consider giving it on GitHub.
