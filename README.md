@@ -1,5 +1,4 @@
 
-
 ⚡ SEKHEM-TSDD
 
 Autonomous Decision System with Verified Energy-Constrained Control
@@ -77,15 +76,17 @@ h_i(X) \geq 0
 ✔ Hardware Safe
 ✔ Fault Tolerant (Reflex fallback)
 ✔ Control within admissible set
-🧪 Simulation
+
+🧪Simulation
 * Multi-agent environment
 * Real-time decision switching
 * Reflex activation under threat
 * Stable convergence under constraints
 
 ⸻
-
 📂 Project Structure
+
+
 sekhem-tsdd-engine/
 │
 ├── sekhem/                # Core system modules
