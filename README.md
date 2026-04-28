@@ -6,7 +6,10 @@ SEKHEM-TSDD is a closed-loop, energy-constrained control architecture designed f
 The system combines Lyapunov-based stability, barrier-function safety, and a reflex-based interrupt mechanism to ensure robust and safe operation under all conditions.
 
 ---
-
+## Simulation
+<p align="center">
+  <img src="docs/simulation.gif" width="100%">
+</p>
 ## Architecture Overview
 ![Architecture](docs/main.png)
 
